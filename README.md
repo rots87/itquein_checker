@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-.NET%209.0-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-orange)
 
-**Itquein Checker** es un middleware de resiliencia de datos diseñado para el entorno hospitalario (Hospital Nacional Zacamil). Su función principal es garantizar la integridad y el flujo de órdenes clínicas entre el sistema **SIAP** y el LIS **Labcore**, automatizando la recuperación de errores de transmisión HL7.
+**Itquein Checker** es un middleware de resiliencia de datos diseñado para el entorno hospitalario. Su función principal es garantizar la integridad y el flujo de órdenes clínicas entre el sistema **SIAP** y el LIS **Labcore**, automatizando la recuperación de errores de transmisión HL7.
 
 ---
 
