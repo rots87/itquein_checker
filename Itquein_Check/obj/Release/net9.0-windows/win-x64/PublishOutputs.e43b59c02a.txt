@@ -1,0 +1,3 @@
+C:\Desarrollo\Itquein_Check\Itquein_Check\bin\Release\net9.0-windows\publish\win-x64\Itquein_Check.pdb
+C:\Desarrollo\Itquein_Check\Itquein_Check\bin\Release\net9.0-windows\publish\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo\Itquein_Check\Itquein_Check\bin\Release\net9.0-windows\publish\win-x64\Itquein_Check.exe
